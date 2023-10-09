@@ -1,9 +1,10 @@
 // Prática Guiada 1
+
+// Aritmética
 /*
 let saldo;
-
 saldo = 15;
-saldo = saldo + 22.40;
+saldo = saldo + 22.4;
 console.log(`Após receber 22.40 eu tenho um total de: ${saldo}`);
 
 saldo = saldo - 12.34;
@@ -12,17 +13,17 @@ console.log(`Após gastar 12.34 o meu saldo é de: ${saldo}`);
 saldo = saldo / 3;
 console.log(`Cada irmão ficou com ${saldo}`);
 
-saldo = saldo * 3.42
+saldo = saldo * 3.42;
 console.log(`Meu saldo após investimento é: ${saldo}`);
 
 saldo = saldo % 3;
-console.log(`Agora eu tenho ${saldo} para comprar meus dadinhos`)
-
+console.log(`Agora eu tenho ${saldo} para comprar meus dadinhos`);
+*/
 
 //Precedência matemática
-console.log(2*2+2);
-console.log(2*(2+2));
-
+/* 
+console.log(2 * 2 + 2);
+console.log(2 * (2 + 2));
 */
 
 // Pratica guiada 2
